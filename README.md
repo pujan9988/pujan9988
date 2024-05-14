@@ -5,7 +5,7 @@ Hey there! I'm **Pujan Paudel**, a computer engineering student with a passion f
 ## About Me
 
 - 🎓 I'm currently pursuing my degree in computer engineering.
-- 💡 I have a keen interest in the world of AI and machine learning.
+- 💡 I have a keen interest in the world of AI, Data Science and Machine Learning.
 - 🌟 Always learning and open to new ideas and challenges.
 - 💻 Proficient in Python, my go-to language for coding adventures.
 
